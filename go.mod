@@ -18,8 +18,7 @@ require (
 	github.com/kataras/golog v0.0.18 // indirect
 	github.com/kataras/iris/v12 v12.1.8
 	github.com/klauspost/compress v1.11.1 // indirect
-	github.com/labstack/echo/v4 v4.1.17
-	github.com/mattn/go-colorable v0.1.8 // indirect
+	github.com/labstack/echo/v4 v4.9.0
 	github.com/microcosm-cc/bluemonday v1.0.16 // indirect
 	github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd // indirect
 	github.com/modern-go/reflect2 v1.0.1 // indirect
